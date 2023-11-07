@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Mobile Mart - Mobile Bue & Sele Website](https://mobile-mart-19b63.web.app/)
 
-- 👨‍💻 All of my projects are available at [https://shohag-portfolio.netlify.app/](https://shohag-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://portfolio-of-shohagroy.vercel.app/)
 
 - 📫 How to reach me **pkshohag240@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14sLTR2QAgGXdV8hxbpXVXOU5I59-P14c/view?usp=share_link](https://drive.google.com/file/d/14sLTR2QAgGXdV8hxbpXVXOU5I59-P14c/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14sLTR2QAgGXdV8hxbpXVXOU5I59-P14c/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
